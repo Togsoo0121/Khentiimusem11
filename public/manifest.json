@@ -1,0 +1,9 @@
+{
+    "short_name": "Khentii Museum",
+    "name": "Хэнтий музей",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#7a1f1f",
+    "background_color": "#f6f1e8"
+  }
